@@ -1,4 +1,11 @@
-import { Video } from "../data/videos";
+interface Video {
+  title: string;
+  platform: "YouTube" | "TikTok" | "Instagram" | "Like" | "VK";
+  videoUrl: string;
+  thumbnail: string;
+  description: string;
+  views?: string;
+}
 
 interface Props {
   video: Video;
@@ -14,7 +21,6 @@ export default function VideoCard({ video }: Props) {
     >
       <div className="video-thumb-wrap">
         <img src={video.thumbnail} alt={video.title} className="video-thumb" />
-
         <div className="video-overlay">
           <span className="play-btn">▶</span>
         </div>

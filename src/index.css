@@ -591,6 +591,16 @@ main {
     margin-bottom: 24px;
   }
 
+  .portfolio-status {
+    margin: 10px 0 0;
+    color: var(--text-soft);
+    font-size: 16px;
+  }
+
+  .portfolio-status--error {
+    color: #ff8f8f;
+  }
+
   .video-grid {
     grid-template-columns: 1fr;
     gap: 18px;
