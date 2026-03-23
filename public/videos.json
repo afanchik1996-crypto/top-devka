@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Монтаж рекламного ролика",
+      "platform": "YouTube",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg",
+      "description": "Рекламный ролик с динамичным монтажом и акцентом на продукт.",
+      "views": "12K просмотров"
+    },
+    {
+      "title": "Short-form ролик для TikTok",
+      "platform": "TikTok",
+      "videoUrl": "https://www.tiktok.com/@username/video/1234567890123456789",
+      "thumbnail": "/thumbs/tiktok-1.jpg",
+      "description": "Вертикальный ролик с быстрым монтажом, титрами и акцентами по биту.",
+      "views": "8K просмотров"
+    },
+    {
+      "title": "Instagram Reels монтаж",
+      "platform": "Instagram",
+      "videoUrl": "https://www.instagram.com/reel/ABC123456/",
+      "thumbnail": "/thumbs/reels-1.jpg",
+      "description": "Стильный reels-контент для личного бренда и соцсетей.",
+      "views": "15K просмотров"
+    },
+    {
+      "title": "Кинематографичный showreel",
+      "platform": "Vimeo",
+      "videoUrl": "https://vimeo.com/76979871",
+      "thumbnail": "/thumbs/showreel-1.jpg",
+      "description": "Имиджевый ролик с атмосферной подачей и мягкими переходами.",
+      "views": "4K просмотров"
+    }
+  ]
