@@ -9,7 +9,7 @@ export default function Contact() {
 
       <div className="contact-links">
         <a
-          href="https://vk.com/yourprofile"
+          href="https://vk.com/lervahalerva"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-card vk-card"
@@ -26,7 +26,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://t.me/yourusername"
+          href="https://t.me/valera_halera"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-card tg-card"
