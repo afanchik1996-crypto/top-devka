@@ -8,7 +8,11 @@ export default function Footer() {
         </div>
 
         <div className="footer-links">
-          <a href="t.me/ne_MAMA_a_mammy" target="_blank" rel="noreferrer">
+          <a
+            href="https://t.me/ne_MAMA_a_mammy"
+            target="_blank"
+            rel="noreferrer"
+          >
             Telegram канал
           </a>
         </div>
