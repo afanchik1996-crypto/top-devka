@@ -734,3 +734,23 @@ main {
     font-size: 13px;
   }
 }
+/* ===== FIX ЯКОРЕЙ (очень важно) ===== */
+
+:root {
+  --anchor-offset: 110px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section[id] {
+  scroll-margin-top: var(--anchor-offset);
+}
+
+/* мобильная корректировка */
+@media (max-width: 768px) {
+  :root {
+    --anchor-offset: 140px;
+  }
+}

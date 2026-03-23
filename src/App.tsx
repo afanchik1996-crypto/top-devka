@@ -8,6 +8,7 @@ export default function App() {
   return (
     <>
       <Header />
+
       <main>
         <section id="portfolio">
           <Portfolio />
@@ -21,6 +22,7 @@ export default function App() {
           <Contact />
         </section>
       </main>
+
       <Footer />
     </>
   );
