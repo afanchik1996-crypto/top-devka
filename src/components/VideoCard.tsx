@@ -18,9 +18,15 @@ export default function VideoCard({ video }: Props) {
       target="_blank"
       rel="noopener noreferrer"
       className="video-card"
+      aria-label={`Открыть видео: ${video.title}`}
     >
       <div className="video-thumb-wrap">
-        <img src={video.thumbnail} alt={video.title} className="video-thumb" />
+        <img
+          src={video.thumbnail}
+          alt={video.title}
+          className="video-thumb"
+          loading="lazy"
+        />
         <div className="video-overlay">
           <span className="play-btn">▶</span>
         </div>
