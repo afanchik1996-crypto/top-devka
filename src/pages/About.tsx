@@ -18,8 +18,9 @@ export default function About() {
         <div className="about-card">
           <h3>Навыки</h3>
           <p>
-            Adobe Premiere Pro, After Effects, DaVinci Resolve, sound design,
-            motion elements, титры, цветокоррекция.
+            CapCut, работа с переходами, эффектами и анимацией, наложение
+            текста, субтитров и графики, базовая цветокоррекция, синхронизация
+            видео с музыкой, создание динамичного сторителлинга.
           </p>
         </div>
 

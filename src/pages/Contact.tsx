@@ -43,7 +43,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://hh.ru/resume/yourresume"
+          href="https://hh.ru/resume/82d17766ff0fd5bb970039ed1f36394d595178?from=share_ios"
           target="_blank"
           rel="noopener noreferrer"
           className="contact-card hh-card"
